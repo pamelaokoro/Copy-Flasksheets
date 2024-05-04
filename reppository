@@ -1,2 +1,4 @@
 cd path/to/your/flask-sheets
+pip install -r requirements.txt
+
 
